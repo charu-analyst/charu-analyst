@@ -7,17 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="charu-analyst" /> </p>
 
-- 🔭 I’m currently working on TheSkyTrails pvt ltd [TheSkyTrails](https://theskytrails.com/)
-
-- 💬 Ask me about **Nodejs,MongoDB,Express,HTML5&CSS,REST API**
-
-- 👩🏻‍💻 I’m currently working on TheSkyTrails pvt ltd [Thehawai yatra](https://thehawaiyatra.com/Login)
-
-- 📫 How to reach me **nodejscharu076@gmail.com**
+- 🔭 I’m currently working on TheSkyTrails Pvt Ltd [TheSkyTrails](https://theskytrails.com/)
+- 👩🏻‍💻 I’m currently working on [TheHawai Yatra](https://thehawaiyatra.com/Login)
+- 💬 Ask me about **Node.js, MongoDB, Express,HTML5 &CSS3, REST API,Cron,AWSS3,Firebase,JWT,Base64,Cloudinary,Payment Gateway Integration(PhoenPe,Stripe,EaseBuzz),AISENSY**
+- 📫 How to reach me: **charuyadav594@gmail.com**
+- 🏘️ I am currently based in **New Delhi, India**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nodejs_charu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nodejs_charu" height="30" width="40" /></a>
+<a href="https://dev.to/nodejs_charu" target="blank"><img align="center" src="https://www.linkedin.com/in/charulata-yadav-578b3b222/" alt="nodejs_charu" height="30" width="40" /></a>
 <a href="https://medium.com/@charuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@charuyadav" height="30" width="40" /></a>
 </p>
 
