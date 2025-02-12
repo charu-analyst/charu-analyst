@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="blank"><img align="center" src="https://www.linkedin.com/in/charulata-yadav-578b3b222/" alt="nodejs_charu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charulata-yadav-578b3b222/"  target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"alt="nodejs_charu" height="30" width="40" /></a>
 <a href="https://medium.com/@charuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@charuyadav" height="30" width="40" /></a>
 </p>
 
